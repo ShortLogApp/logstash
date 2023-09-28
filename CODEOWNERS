@@ -1,0 +1,39 @@
+# 
+# Directory /
+# 207 contributors, 3,180 files, 308,966 loc
+# 
+*                   phil@example.com
+/.dockerignore      marsha@example.com
+/.fossa.yml         james@example.com
+/.gitignore         willy@example.com
+/.rubocop.yml       andres@example.com
+/.ruby-version      github-actions[bot]@example.com
+/build.gradle       rob@example.com
+/catalog-info.yaml  dimitrios@example.com
+/CONTRIBUTING.md    jules@example.com
+/CONTRIBUTORS       jules@example.com
+/COPYING.csv        jules@example.com
+/Dockerfile         lior@example.com
+/Dockerfile.base    jake@example.com
+/Gemfile.template   jules@example.com
+/gradle.properties  selva@example.com
+/gradlew            jules@example.com
+/gradlew.bat        jubboy@example.com
+/LICENSE.txt        jenkins@example.com
+/NOTICE.TXT         rob@example.com
+/Rakefile           jules@example.com
+/README.md          rao@example.com
+/ROADMAP.md         alvin@example.com
+/rubyUtils.gradle   hermann@example.com
+/SECURITY.md        yana@example.com
+/settings.gradle    mel@example.com
+/STYLE.md           jules@example.com
+/versions.yml       jen@example.com
+
+# 
+# Directory /.buildkite
+# 4 contributors, 13 files, 711 loc
+# 
+/.buildkite                                      dimitrios@example.com
+/.buildkite/serverless_integration_pipeline.yml  kaizen@example.com
+/.buildkite/snyk_report_pipeline.yml             marsh@example.com
